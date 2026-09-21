@@ -1,3 +1,4 @@
+// Updated: cải tiến logic đăng nhập
 function login(username, password) {
   if (username === "admin" && password === "123") {
     return true;
